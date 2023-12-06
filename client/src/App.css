@@ -1,0 +1,12 @@
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App-content {
+  height: 100%;
+  white-space: pre-line;
+  line-height: 2em;
+  overflow-y: auto;
+}
